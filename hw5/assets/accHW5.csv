@@ -1,0 +1,59 @@
+europeABB,europe,asiaABB,asia,oceaniaABB,oceania,africaABB,africa,northABB,north,southABB,south
+AX,Aland Islands,AF,Afghanistan,AS,American Samoa,DZ,Algeria,AI,Anguilla,AR,Argentina
+AL,Albania,AZ,Azerbaijan,AU,Australia,AO,Angola,AW,Aruba,BO,Bolivia
+AD,Andorra,BH,Bahrain,CK,Cook Islands,BJ,Benin,BQ,Bonaire,BR,Brazil
+AM,Armenia,BD,Bangladesh,FJ,Fiji,BW,Botswana,CA,Canada,CL,Chile
+AT,Austria,BT,Bhutan,PF,French Polynesia,BF,Burkina Faso,CU,Cuba,CO,Colombia
+BY,Belarus,IO,British Indian Ocean Territory,GU,Guam,BI,Burundi,CW,Curaçao,EC,Ecuador
+BE,Belgium,BN,Brunei Darussalam,KI,Kiribati,CM,Cameroon,DM,Dominica,FK,Falkland Islands
+BA,Bosnia and Herzegovina,KH,Cambodia,MH,Marshall Islands,CV,Cape Verde,DO,Dominican Republic,GF,French Guiana
+BG,Bulgaria,CN,China,FM,Micronesia,CF,Central African Republic,SV,El Salvador,GY,Guyana
+HR,Croatia,CX,Christmas Island,NR,Nauru,TD,Chad,GL,Greenland,PY,Paraguay
+CZ,Czech Republic (Czechia),CC,Cocos Islands,NC,New Caledonia,KM,Comoros,GD,Grenada,PE,Peru
+DK,Denmark,CY,Cyprus,NZ,New Zealand,CG,Congo,GP,Guadeloupe,SR,Suriname
+EE,Estonia,GE,Georgia,NU,Niue,CD,Congo,GT,Guatemala,UY,Uruguay
+FO,Faroe Islands,HK,Hong Kong,NF,Norfolk Island,CI,Côte d'Ivoire,HT,Haiti,VE,Venezuela
+FI,Finland,IN,India,MP,Northern Mariana Islands,DJ,Djibouti,HN,Honduras,,
+FR,France,ID,Indonesia,PW,Palau,EG,Egypt,JM,Jamaica,,
+DE,Germany,IR,Iran,PG,Papua New Guinea,GQ,Equatorial Guinea,MQ,Martinique,,
+GI,Gibraltar,IQ,Iraq,PN,Pitcairn Islands,ER,Eritrea,MX,Mexico,,
+GR,Greece,IL,Israel,WS,Samoa,ET,Ethiopia,MS,Montserrat,,
+GG,Guernsey,JP,Japan,SB,Solomon Islands,GA,Gabon,AN,Netherlands Antilles,,
+VA,Holy See (Vatican City State),JO,Jordan,TK,Tokelau,GM,Gambia,NI,Nicaragua,,
+HU,Hungary,KZ,Kazakhstan,TO,Tonga,GH,Ghana,PA,Panama,,
+IS,Iceland,KP,North Korea,TV,Tuvalu,GN,Guinea,PR,Puerto Rico,,
+IE,Ireland,KR,South Korea,UM,United States Minor Outlying Islands,GW,Guinea-Bissau,BL,Saint Barthelemy,,
+IM,Isle of Man,KW,Kuwait,VU,Vanuatu,KE,Kenya,KN,Saint Kitts and Nevis,,
+IT,Italy,KG,Kyrgyzstan,WF,Wallis and Futuna,LS,Lesotho,LC,Saint Lucia,,
+JE,Jersey,LA,Laos,,,LR,Liberia,MF,Saint Martin,,
+LV,Latvia,LB,Lebanon,,,LY,Libyan Arab Jamahiriya,PM,Saint Pierre and Miquelon,,
+LI,Liechtenstein,MO,Macao,,,MG,Madagascar,VC,Saint Vincent and the Grenadines,,
+LT,Lithuania,MY,Malaysia,,,MW,Malawi,,,,
+LU,Luxembourg,MV,Maldives,,,ML,Mali,TT,Trinidad and Tobago,,
+MK,North Macedonia,MN,Mongolia,,,MR,Mauritania,TC,Turks and Caicos Islands,,
+MT,Malta,MM,Myanmar,,,MU,Mauritius,UM,United States Minor Outlying Islands,,
+MD,Moldova,NP,Nepal,,,YT,Mayotte,US,United States of America,,
+MC,Monaco,OM,Oman,,,MA,Morocco,VI,United States Virgin Islands,,
+ME,Montenegro,PK,Pakistan,,,MZ,Mozambique,,,,
+NL,Netherlands,PS,Palestinian Territory,,,NA,Namibia,,,,
+NO,Norway,PH,Philippines,,,NE,Niger,,,,
+PL,Poland,QA,Qatar,,,NG,Nigeria,,,,
+PT,Portugal,SA,Saudi Arabia,,,RE,Reunion,,,,
+RO,Romania,SG,Singapore,,,RW,Rwanda,,,,
+RU,Russian Federation,LK,Sri Lanka,,,SH,Saint Helena,,,,
+SM,San Marino,SY,Syrian Arab Republic,,,ST,Sao Tome and Principe,,,,
+RS,Serbia,TW,Taiwan,,,SN,Senegal,,,,
+SK,Slovakia (Slovak Republic),TJ,Tajikistan,,,SC,Seychelles,,,,
+SI,Slovenia,TH,Thailand,,,SL,Sierra Leone,,,,
+ES,Spain,TL,Timor-Leste,,,SO,Somalia,,,,
+SJ,Svalbard & Jan Mayen Islands,TR,Turkey,,,ZA,South Africa,,,,
+SE,Sweden,TM,Turkmenistan,,,SS,South Sudan,,,,
+CH,Switzerland,AE,United Arab Emirates,,,SD,Sudan,,,,
+UA,Ukraine,UZ,Uzbekistan,,,SZ,Eswatini,,,,
+GB,United Kingdom,VN,Vietnam,,,TZ,Tanzania,,,,
+,,YE,Yemen,,,TG,Togo,,,,
+,,,,,,TN,Tunisia,,,,
+,,,,,,UG,Uganda,,,,
+,,,,,,EH,Western Sahara,,,,
+,,,,,,ZM,Zambia,,,,
+,,,,,,ZW,Zimbabwe,,,,
